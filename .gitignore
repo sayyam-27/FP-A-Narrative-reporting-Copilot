@@ -1,0 +1,9 @@
+.env
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+chroma_db/
+token.json
+credentials.json

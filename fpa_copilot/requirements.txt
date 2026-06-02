@@ -1,0 +1,10 @@
+streamlit
+pandas
+openpyxl
+chromadb
+langchain
+langchain-anthropic
+anthropic
+pytest
+python-dotenv
+python-pptx
